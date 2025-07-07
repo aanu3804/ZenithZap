@@ -14,7 +14,7 @@ const TeamSection = () => {
         {
           name: 'Janaki Ram Reddy',
           position: 'Founder and CEO',
-          bio: 'PhD in Sports Science, leading our formula innovation',
+          bio: 'Founder and CEO, leading our formula innovation',
           image: '/WhatsApp Image 2025-07-04 at 11.28.30_8fa8cab8.jpg',
         },
         {
