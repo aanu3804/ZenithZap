@@ -41,7 +41,7 @@ const Products = () => {
       name: 'Electrona',
       category: 'Electrona',
       stage: 'During-Workout Hydration',
-      image: '/Electrona_TM_Original.png',
+      image: '/Electrona_White.png',
       price: 129,
       description: 'Stay in the zone with Electrona’s hydration blend that fuels endurance and peak output.',
       benefits: [
